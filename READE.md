@@ -1,0 +1,1 @@
+Simple store application using flask and REST API
