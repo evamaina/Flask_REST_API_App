@@ -1,7 +1,9 @@
 ## Simple store application using flask and REST API
 ## Installation
-pip3 install Flask
-python3 app.py
+* pip3 install Flask
+
+* python3 app.py
+
 ## Description
 
 ## Implementaton
